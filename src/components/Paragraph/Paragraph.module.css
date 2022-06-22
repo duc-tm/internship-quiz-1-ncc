@@ -1,0 +1,16 @@
+.paragraphTitle {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: calc(28 / 24);
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+
+.paragraphImage {
+  float: left;
+  margin-right: 16px;
+}
+
+.paragraphText {
+  margin: 0;
+}
